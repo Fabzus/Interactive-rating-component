@@ -40,8 +40,9 @@ This is a solution to the [Interactive rating component](https://www.frontendmen
 - getting familiar with CSS and HTML
 
 ### Continued development
+- I would like to remove the hard coding for the rating radio buttons
 
-I would like to add some animations for when the cards are changing
+- I would like to add some animations for when the cards are changing
 
 ## Author
 
