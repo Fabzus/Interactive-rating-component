@@ -21,8 +21,8 @@ This is a solution to the [Interactive rating component](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [github](https://github.com/Fabzus/qr-code-challenge.github.io)
-- Live Site URL: [github](https://fabzus.github.io/qr-code-challenge.github.io/)
+- Solution URL: [github](https://github.com/Fabzus/Interactive-rating-component)
+- Live Site URL: [github](https://fabzus.github.io/Interactive-rating-component/)
 
 ## My process
 
